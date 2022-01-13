@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rufan0
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning ...
 - 📫 How to reach me twitter/0rufn
 
 <!---
