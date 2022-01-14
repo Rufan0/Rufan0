@@ -6,7 +6,7 @@
 <img align='right' src="https://raw.githubusercontent.com/Rufan0/Rufan0/main/assets/giphy.webp" width="230">
 
 
-<img align="left" width="32px" height="32px" alt="profile" src="https://github.com/Rufan0/Rufan0/blob/main/assets/86017408.jpg?raw=true" />
+<img align="left" width="32px" height="32px" alt="profile" src="https://github.com/Rufan0/Rufan0/blob/main/assets/cs-an.gif?raw=true" />
 
 
 ## I'm Student, Cyber Security Resercher and CTF Player
@@ -20,4 +20,5 @@
 <!---
 Rufan0/Rufan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github.com/Rufan0/Rufan0/blob/main/assets/86017408.jpg?raw=true
 --->
