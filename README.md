@@ -14,7 +14,6 @@
 
 
 - 👀 I’m interested in Cyber Security
-- 📫 How to reach me twitter/0rufn
 - :fire: **I'm currently Learning everything** :smiley:
 - :raised_hands: **Fun fact: I love to watch movies and anime / read comics and books** :zap:
 
