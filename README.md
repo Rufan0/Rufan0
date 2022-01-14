@@ -15,7 +15,6 @@
 
 - 👀 I’m interested in Cyber Security
 - :fire: **I'm currently Learning everything** :smiley:
-- :raised_hands: **Fun fact: I love to watch movies and anime / read comics and books** :zap:
 
 <!---
 Rufan0/Rufan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
