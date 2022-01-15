@@ -1,7 +1,7 @@
 # Hi there, I'm Rufan <img src="https://raw.githubusercontent.com/Rufan0/readme/main/assets/Hi.gif" width="30px">
 
 [![Linkedin: Rufan0](https://img.shields.io/badge/-Rufan0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufan-bayramzad%C9%99-80b6621a7/)](https://www.linkedin.com/in/rufan-bayramzad%C9%99-80b6621a7/)
-[![Discord Badge](https://img.shields.io/badge/-0rufn-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/0rufn?t=x4BwvUsDHNLXySGdgGK_LA&s=09)](https://twitter.com/0rufn?t=x4BwvUsDHNLXySGdgGK_LA&s=09)
+[![Twitter](https://img.shields.io/badge/-0rufn-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/0rufn?t=x4BwvUsDHNLXySGdgGK_LA&s=09)](https://twitter.com/0rufn?t=x4BwvUsDHNLXySGdgGK_LA&s=09)
 [![GitHub Rufan0](https://img.shields.io/github/followers/Rufan0?label=follow&style=social)](https://github.com/Rufan0)
 <img align='right' src="https://github.com/Rufan0/Rufan0/blob/main/assets/code.gif?raw=true" width="230">
 
