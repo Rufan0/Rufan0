@@ -9,7 +9,7 @@
 <img align="left" width="32px" height="32px" alt="profile" src="https://github.com/Rufan0/Rufan0/blob/main/assets/86017408.jpg?raw=true" />
 
 
-## I'm Student, Cyber Security Resercher and CTF Player
+## I'm Student, Pentester and CTF Player
 
 
 
